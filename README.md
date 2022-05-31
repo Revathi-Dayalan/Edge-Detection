@@ -114,18 +114,20 @@ plt.show()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-![r1](https://user-images.githubusercontent.com/96000574/171096892-28c292d4-37b9-44cb-816c-78b06da9a40c.jpeg)
-![r2](https://user-images.githubusercontent.com/96000574/171096967-c20739ee-2181-4d3b-9446-602a8ed40498.jpeg)
-![r3](https://user-images.githubusercontent.com/96000574/171096992-730fa71d-5de8-4e2b-8c03-797053d0a5c1.jpeg)
+![r5](https://user-images.githubusercontent.com/96000574/171097381-f92a06d3-d634-45a1-b954-73e493ca17b8.jpeg)
+![r4](https://user-images.githubusercontent.com/96000574/171097453-9dfaa8a1-2e66-4b1b-990b-a8a8c523ec01.jpeg)
+![r3](https://user-images.githubusercontent.com/96000574/171097595-dee0d909-b31a-4556-8097-1e409a2497bb.jpeg)
 
 
 ### LAPLACIAN EDGE DETECTOR
-![r4](https://user-images.githubusercontent.com/96000574/171097017-dec7e362-ca71-45df-9888-da458bfa90ea.jpeg)
+![r2](https://user-images.githubusercontent.com/96000574/171097639-2f64fad3-0b15-43d1-a212-d50152a17a29.jpeg)
+
 
 
 
 ### CANNY EDGE DETECTOR
-![r5](https://user-images.githubusercontent.com/96000574/171097091-74283fd0-9706-4962-88f8-cada10a34f3e.jpeg)
+![r1](https://user-images.githubusercontent.com/96000574/171097672-782cc816-deea-4b49-9afa-b97505e64060.jpeg)
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
